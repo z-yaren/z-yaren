@@ -31,7 +31,8 @@
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-yaren&theme=tokyonight)
 
-![righttorepair](https://github.com/z-yaren/deneme/assets/69366142/ec2ad403-fe15-465c-8534-c9baf41cef33)
+![righttorepair](https://github.com/z-yaren/z-yaren/assets/69366142/4044b6a5-6246-4656-b28f-443fafacb0b0)
+
 <!--
 **z-yaren/z-yaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
