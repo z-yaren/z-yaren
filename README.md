@@ -2,26 +2,28 @@
 
 
 #### Languages & Tools, IDEs
-![java](https://github.com/z-yaren/deneme/assets/69366142/d0e48fc0-c77d-4429-9f25-fe8a884851f9)
-![cpp](https://github.com/z-yaren/deneme/assets/69366142/fb805889-07bd-4e54-b403-71516a052a7d)
-![cs](https://github.com/z-yaren/deneme/assets/69366142/832e9fb9-06da-4860-b255-508a2d054678)
-![py](https://github.com/z-yaren/deneme/assets/69366142/c6f27e83-25be-4a78-9c92-c98c20942f61)
-![r](https://github.com/z-yaren/deneme/assets/69366142/879482fa-41c4-4f3e-8198-9fb7d37befcb)
-![mysql](https://github.com/z-yaren/deneme/assets/69366142/dde1a4f2-c065-43a4-b1cc-6b0c28ac72c5)
-![unity](https://github.com/z-yaren/deneme/assets/69366142/b33c3591-aed4-4f69-8c21-803bd417c62e)
-![vscode](https://github.com/z-yaren/deneme/assets/69366142/37376029-5ee4-471b-bcca-a079008a8f46)
-![vs](https://github.com/z-yaren/deneme/assets/69366142/e39ef894-f14d-42ad-a71d-f19694c9fe67)
-![IntelliJ](https://github.com/z-yaren/deneme/assets/69366142/1852d098-b282-4e59-83e5-1eacbdcf8f9c)
-![pycharm](https://github.com/z-yaren/deneme/assets/69366142/ce54cb62-9e5d-4caa-82c7-87619ea9f90c)
-![vim](https://github.com/z-yaren/deneme/assets/69366142/76d78cb1-9b66-4a87-8c4d-87ec1397004b)
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8863e715-9368-4457-b63d-06e02c758993"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8b967e3c-8003-4ea7-bc35-e59e4d2e418d"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d781225f-8fd5-4b90-bf66-889c2ff8d412"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/6d390376-a5cb-48a4-a9ef-a6d65ab80b3e"/>
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8ba4bc8d-b4f9-493d-95c5-cdb8ff833033"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/66904ca8-47cf-49a2-a4a3-d90259e17010"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1a4fd229-497d-4f70-b6b7-15a327e0d191"/>
+<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/85555e23-ac82-477e-ac36-4201a86ebe8d"/>
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/e0619642-8fb7-42cc-99c2-509516117b1b"/>
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1bec2b7e-2f57-40a7-bd48-04a2873978cb"/>
+<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/90e0f1d1-e5de-47e4-82fd-5a4498cbaa23"/>
+
+
 
 
 ######
-![ps](https://github.com/z-yaren/deneme/assets/69366142/1a1b5e49-5c12-4967-9d49-f76cae725810)
-![ai](https://github.com/z-yaren/deneme/assets/69366142/02318c8c-d10f-443e-b574-4d8e8833a5d8)
-![ae](https://github.com/z-yaren/deneme/assets/69366142/32bce183-01a0-422b-bf71-18cd3c61e568)
-![pr](https://github.com/z-yaren/deneme/assets/69366142/c6aa2e0e-0952-40bd-8cdd-86f29a4430da)
-![blender](https://github.com/z-yaren/deneme/assets/69366142/36b84161-82c5-4c01-8a8e-82727850bbd0)
+<img align="left" alt="PS" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/577d8fd6-7c56-4139-bc16-4fa45fc13d51"/>
+<img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/06037bdb-9ff1-4c11-9060-d9a7867614ef"/>
+<img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/a6f7648a-28ba-4af9-8d30-84603d58de43"/>
+<img align="left" alt="PR" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/e215874f-706b-4e50-b109-dea86bfa819d"/>
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d762f904-accb-424b-b6bf-6e6ed27c784d"/>
 
 
 
