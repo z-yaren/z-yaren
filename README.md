@@ -1,4 +1,4 @@
-### Hi there 👋
+![hello_there](https://github.com/z-yaren/z-yaren/assets/69366142/4352b1dc-4759-4efd-91fb-2e5dcfc598f7)
 
 <!--
 **z-yaren/z-yaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
