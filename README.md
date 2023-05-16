@@ -24,7 +24,7 @@
 <img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/06037bdb-9ff1-4c11-9060-d9a7867614ef"/>
 <img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/a6f7648a-28ba-4af9-8d30-84603d58de43"/>
 <img align="left" alt="PR" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/e215874f-706b-4e50-b109-dea86bfa819d"/>
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d762f904-accb-424b-b6bf-6e6ed27c784d"/><br />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d762f904-accb-424b-b6bf-6e6ed27c784d"/><br /><br />
 
 
 
