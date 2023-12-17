@@ -10,8 +10,8 @@
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8ba4bc8d-b4f9-493d-95c5-cdb8ff833033"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/66904ca8-47cf-49a2-a4a3-d90259e17010"/>
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1a4fd229-497d-4f70-b6b7-15a327e0d191"/>
-<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/85555e23-ac82-477e-ac36-4201a86ebe8d"/>
 <!--
+<img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/85555e23-ac82-477e-ac36-4201a86ebe8d"/>
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/e0619642-8fb7-42cc-99c2-509516117b1b"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1bec2b7e-2f57-40a7-bd48-04a2873978cb"/>
 -->
@@ -30,10 +30,8 @@
 
 
 
-
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-yaren&theme=tokyonight)
-
-![righttorepair](https://github.com/z-yaren/z-yaren/assets/69366142/4044b6a5-6246-4656-b28f-443fafacb0b0)
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-yaren&theme=tokyonight" /></p>
+<p align="center"> <img src="https://github.com/z-yaren/z-yaren/assets/69366142/4044b6a5-6246-4656-b28f-443fafacb0b0" /></p>
 
 <!--
 **z-yaren/z-yaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
