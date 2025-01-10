@@ -5,11 +5,14 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8863e715-9368-4457-b63d-06e02c758993"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8b967e3c-8003-4ea7-bc35-e59e4d2e418d"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d781225f-8fd5-4b90-bf66-889c2ff8d412"/>
+<!--<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/d781225f-8fd5-4b90-bf66-889c2ff8d412"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1a4fd229-497d-4f70-b6b7-15a327e0d191"/>
+im done with game development so i am removing c# and unity image lol
+-->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/6d390376-a5cb-48a4-a9ef-a6d65ab80b3e"/>
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/8ba4bc8d-b4f9-493d-95c5-cdb8ff833033"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/66904ca8-47cf-49a2-a4a3-d90259e17010"/>
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/1a4fd229-497d-4f70-b6b7-15a327e0d191"/>
+
 <!--
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/85555e23-ac82-477e-ac36-4201a86ebe8d"/>
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/z-yaren/z-yaren/assets/69366142/e0619642-8fb7-42cc-99c2-509516117b1b"/>
